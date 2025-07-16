@@ -59,7 +59,6 @@ Atualmente lidero a operação da **High Protection**, corretora onde desenvolvo
   <a href="https://www.linkedin.com/in/kevin-nobre-a8a952172/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
 - 📥 E-mail: kevinchristian.nobre@gmail.com
