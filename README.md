@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
 </p>
 
-Atualmente souu **Product Manager** formado em Análise e Desenvolvimento de Sistemas pela FIAP, com forte atuação em **UX**, **projetos digitais**, **tecnologia e inovação centrada no usuário**. Tenho experiência prática liderando times, estruturando backlog, fazendo discovery, validando soluções e atuando em projetos reconhecidos nacionalmente, como o **Global Solution HapVida (2º lugar)** e o **Challenge Salesforce (finalista NEXT FIAP)**.
+Atualmente sou **Product Manager** formado em Análise e Desenvolvimento de Sistemas pela FIAP, com forte atuação em **UX**, **projetos digitais**, **tecnologia e inovação centrada no usuário**. Tenho experiência prática liderando times, estruturando backlog, fazendo discovery, validando soluções e atuando em projetos reconhecidos nacionalmente, como o **Global Solution HapVida (2º lugar)** e o **Challenge Salesforce (finalista NEXT FIAP)**.
 
 Ao longo da minha trajetória, atuei também em empresas como **FAVO**, **Stefanini** e **Teleperformance**, acumulando vivência com **Scrum, KPIs, UX Research**, gerenciamento de produto e liderança operacional.
 
