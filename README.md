@@ -8,7 +8,7 @@
 
 Sou **Product Owner** formado em Análise e Desenvolvimento de Sistemas pela FIAP, com forte atuação em **UX**, **projetos digitais**, **tecnologia e inovação centrada no usuário**. Tenho experiência prática liderando times, estruturando backlog, fazendo discovery, validando soluções e atuando em projetos reconhecidos nacionalmente, como o **Global Solution HapVida (2º lugar)** e o **Challenge Salesforce (finalista NEXT FIAP)**.
 
-Atualmente lidero a operação da **High Protection**, corretora onde desenvolvo soluções digitais, otimizo fluxos e implemento automações, com foco em seguros de vida e segurança patrimonial. Ao longo da minha trajetória, atuei também em empresas como **FAVO**, **Stefanini** e **Teleperformance**, acumulando vivência com **Scrum, KPIs, UX Research**, atendimento técnico e liderança operacional bilíngue.
+Ao longo da minha trajetória, atuei também em empresas como **FAVO**, **Stefanini** e **Teleperformance**, acumulando vivência com **Scrum, KPIs, UX Research**, gerenciamento de produto e liderança operacional.
 
 ---
 
