@@ -8,7 +8,7 @@
 
 Atualmente sou **Product Manager** formado em Análise e Desenvolvimento de Sistemas pela FIAP, com forte atuação em **UX**, **projetos digitais**, **tecnologia e inovação centrada no usuário**. Tenho experiência prática liderando times, estruturando backlog, fazendo discovery, validando soluções e atuando em projetos reconhecidos nacionalmente, como o **Global Solution HapVida (2º lugar)** e o **Challenge Salesforce (finalista NEXT FIAP)**.
 
-Ao longo da minha trajetória, atuei também em empresas como **FAVO**, **Stefanini** e **Teleperformance**, acumulando vivência com **Scrum, KPIs, UX Research**, gerenciamento de produto e liderança operacional.
+Ao longo da minha trajetória, atuei também em empresas como **Bradesco**, **Stefanini** e **Teleperformance**, acumulando vivência com **Scrum, KPIs, UX Research**, gerenciamento de produto e liderança operacional.
 
 ---
 
